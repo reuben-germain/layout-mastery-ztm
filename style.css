@@ -33,6 +33,10 @@ body {
     margin: 0;
   }
   
+  .push {
+    margin-left: auto;
+  }
+  
   li {
     padding: 20px;
   }
