@@ -53,6 +53,14 @@ body {
     text-decoration: none;
   }
   
+  /* COVER */
+  
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
   /*https://paulund.co.uk/how-to-create-shiny-css-buttons*/
   /***********************************************************************
    *  Green Background
