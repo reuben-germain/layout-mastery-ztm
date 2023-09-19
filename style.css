@@ -1,4 +1,8 @@
-.zone {
+body {
+    margin: auto 0;
+  }
+  
+  .zone {
     /* padding: 30px 50px;
     margin: 40px 60px; */
     cursor: pointer;
