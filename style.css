@@ -69,6 +69,10 @@ body {
     grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
   }
   
+  .box > img {
+    width: 100%;
+  }
+  
   /*https://paulund.co.uk/how-to-create-shiny-css-buttons*/
   /***********************************************************************
    *  Green Background
